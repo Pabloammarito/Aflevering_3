@@ -50,4 +50,4 @@ public class B {
 
         return true;
     }
-}
+};
